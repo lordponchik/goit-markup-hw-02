@@ -48,7 +48,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
-.active {
+.site-nav-link.active {
   color: var(--accent-color);
 }
 .contacts-nav-link {
