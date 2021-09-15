@@ -91,8 +91,8 @@ body {
 }
 .hero .button:hover,
 .hero .button:focus {
-  color: var(--accent-color);
-  background-color: var(--white-color);
+  color: var(--secondary-text-color);
+  background-color: var(--secondary-bg-color);
 }
 
 .quality-menu-title {
@@ -149,4 +149,35 @@ body {
 
 .footer .contacts-nav-link:hover {
   color: var(--accent-color);
+}
+
+/* portfolio */
+.portfolio-filter .button {
+  cursor: pointer;
+  color: var(--secondary-text-color);
+  background-color: var(--secondary-bg-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+}
+.portfolio-filter .active {
+  color: var(--white-color);
+  background-color: var(--accent-color);
+}
+.portfolio-filter .button:hover,
+.portfolio-filter .button:focus {
+  color: var(--white-color);
+  background-color: var(--accent-color);
+}
+.portfolio-work-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--secondary-text-color);
+}
+.portfolio-work-text {
+  font-size: 16px;
+  line-height: 1.88;
+  color: var(--primary-text-color);
 }
