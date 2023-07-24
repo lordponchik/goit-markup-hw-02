@@ -1,4 +1,5 @@
 # Homework / Домашнее задание :clipboard:
+## goit-markup-hw-02
 :us:
 <details>
 	<summary>English</summary>
@@ -68,8 +69,7 @@
 		<li>Создай репозиторий `goit-markup-hw-02`.</li>
 		<li>Склонируй созданный репозиторий и скопируй в него файлы предыдущей работы.</li>
 		<li>Выполни HTML-разметку макета страницы и оформление макета страницы<a href="https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=1%3A94"><b>homework #2</b></a>.</li>
-		<li>Для оптимизации изображений используй сервис
-  [**squoosh**](https://squoosh.app/).</li>
+		<li>Для оптимизации изображений используй сервис <a href="https://squoosh.app/">squoosh</a>.</li>
 		<li>Настрой `GitHub Pages` и добавь ссылку на живую страницу в шапку GitHub-репозитория.</li>
 	</ul>
 
